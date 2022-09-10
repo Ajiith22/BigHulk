@@ -6,5 +6,7 @@ Corejava
 Automation
 SQL
 
+Manual Testing 
+Excel
 
 Thank You :)
