@@ -6,7 +6,14 @@ Corejava
 Automation
 SQL
 
+Manual Testing
+Excel
+
 
 Thank You :)
 
+Done my Changes
+
+
 Final Copy
+
